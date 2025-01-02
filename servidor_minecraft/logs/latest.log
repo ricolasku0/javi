@@ -100,3 +100,11 @@
 [02Jan2025 00:26:35.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-21, y=65, z=403}
 [02Jan2025 00:28:38.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Stone Age]
 [02Jan2025 00:29:09.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Getting an Upgrade]
+[02Jan2025 00:33:58.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Monster Hunter]
+[02Jan2025 00:34:07.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [A Strange Grave Dust]
+[02Jan2025 00:37:59.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Acquire Hardware]
+[02Jan2025 00:38:16.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Isn't It Iron Pick]
+[02Jan2025 00:38:51.472] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-13, y=102, z=-69}
+[02Jan2025 00:38:51.474] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-13, y=107, z=-74}
+[02Jan2025 00:38:51.475] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=111, z=-77}
+[02Jan2025 00:38:57.378] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=105, z=-76}
