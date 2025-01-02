@@ -528,6 +528,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-02 01:31:51 +0000",
       "cooked_mutton": "2025-01-02 00:26:40 +0000",
       "sweet_berries": "2024-12-30 02:03:11 +0000",
       "potato": "2024-12-30 02:21:00 +0000",
@@ -1362,6 +1363,162 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-02 00:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-02 01:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-02 01:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-02 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-02 01:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 01:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:12:12 +0000"
     },
     "done": true
   },

@@ -136,3 +136,49 @@ A world backup will be automatically created in your saves directory.
 [02Jan2025 01:03:15.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Sweet Dreams]
 [02Jan2025 01:04:08.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonyXD[/[::1]:53452] logged in with entity id 1239 at (-83.69999998807907, 13.0, 473.5204742489149)
 [02Jan2025 01:04:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD joined the game
+[02Jan2025 01:09:41.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHABBY_UP lost connection: Disconnected
+[02Jan2025 01:09:41.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP left the game
+[02Jan2025 01:09:41.392] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 01:09:41.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHABBY_UP[/[::1]:55096] logged in with entity id 2881 at (766.135000574055, 64.0, -488.3121949119051)
+[02Jan2025 01:09:41.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP joined the game
+[02Jan2025 01:10:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 01:12:09.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niiiii> t
+[02Jan2025 01:13:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Acquire Hardware]
+[02Jan2025 01:15:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 01:16:44.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 01:17:06.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 01:17:50.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 01:20:39.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 01:22:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP has reached the goal [Strong or Careful]
+[02Jan2025 01:22:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP was slain by Skeleton
+[02Jan2025 01:22:37.642] [Server thread/INFO] [tombstone/]: The player CHABBY_UP has successfully been saved
+[02Jan2025 01:22:41.449] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 01:22:41.450] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Jan2025 01:26:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Not Today, Thank You]
+[02Jan2025 01:26:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD fell from a high place
+[02Jan2025 01:26:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Your First Grave]
+[02Jan2025 01:26:25.908] [Server thread/INFO] [tombstone/]: The player JhonyXD has successfully been saved
+[02Jan2025 01:26:28.788] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 01:26:28.788] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Jan2025 01:26:56.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonyXD lost connection: Timed out
+[02Jan2025 01:26:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD left the game
+[02Jan2025 01:27:50.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonyXD[/[::1]:58258] logged in with entity id 13914 at (-24.056161566187306, 64.0, 393.1834756601944)
+[02Jan2025 01:27:50.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD joined the game
+[02Jan2025 01:28:07.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Best Friends Forever]
+[02Jan2025 01:28:16.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Bone]
+[02Jan2025 01:28:55.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Iron Chunk]
+[02Jan2025 01:29:20.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonyXD lost connection: Timed out
+[02Jan2025 01:29:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD left the game
+[02Jan2025 01:30:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 01:30:22.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonyXD[/[::1]:40554] logged in with entity id 14531 at (25.50240535720075, 70.0, 511.69999998807907)
+[02Jan2025 01:30:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD joined the game
+[02Jan2025 01:31:37.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonyXD lost connection: Timed out
+[02Jan2025 01:31:37.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD left the game
+[02Jan2025 01:31:37.669] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 01:32:13.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP has made the advancement [Isn't It Iron Pick]
+[02Jan2025 01:32:45.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonyXD[/[::1]:50860] logged in with entity id 16057 at (-74.61442024506128, 84.2462968405392, 451.5239499689691)
+[02Jan2025 01:32:45.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD joined the game
+[02Jan2025 01:35:12.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Spectator Mode]
+[02Jan2025 01:35:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP has made the advancement [Wingin' It]
+[02Jan2025 01:37:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP has made the advancement [Suit Up]
+[02Jan2025 01:37:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
