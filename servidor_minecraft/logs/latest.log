@@ -182,3 +182,28 @@ A world backup will be automatically created in your saves directory.
 [02Jan2025 01:35:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP has made the advancement [Wingin' It]
 [02Jan2025 01:37:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP has made the advancement [Suit Up]
 [02Jan2025 01:37:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 01:38:08.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Spectator Mode]
+[02Jan2025 01:39:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD was slain by Naga
+[02Jan2025 01:39:11.622] [Server thread/INFO] [tombstone/]: The player JhonyXD has successfully been saved
+[02Jan2025 01:39:13.611] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 01:39:13.612] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 01:40:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD was slain by Naga
+[02Jan2025 01:40:25.025] [Server thread/INFO] [tombstone/]: The player JhonyXD has successfully been saved
+[02Jan2025 01:40:26.672] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 01:40:26.672] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Jan2025 01:40:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 01:41:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Spectator Mode]
+[02Jan2025 01:41:58.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 01:42:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Wingin' It]
+[02Jan2025 01:43:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Sweet Dreams]
+[02Jan2025 01:43:32.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Crystal Chunk]
+[02Jan2025 01:45:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD was slain by CHABBY_UP
+[02Jan2025 01:45:05.171] [Server thread/INFO] [tombstone/]: The player JhonyXD has successfully been saved
+[02Jan2025 01:45:06.714] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 01:45:06.716] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Jan2025 01:45:07.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP has made the advancement [Ambush]
+[02Jan2025 01:46:45.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 01:47:10.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP was slain by JhonyXD
+[02Jan2025 01:47:10.965] [Server thread/INFO] [tombstone/]: The player CHABBY_UP has successfully been saved
+[02Jan2025 01:47:13.735] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 01:47:13.736] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

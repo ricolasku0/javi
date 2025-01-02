@@ -333,7 +333,8 @@
     "criteria": {
       "minecraft:dark_forest": "2025-01-02 01:21:36 +0000",
       "minecraft:stony_shore": "2025-01-02 00:31:36 +0000",
-      "minecraft:lush_caves": "2025-01-02 00:35:48 +0000"
+      "minecraft:lush_caves": "2025-01-02 00:35:48 +0000",
+      "minecraft:ocean": "2025-01-02 01:38:38 +0000"
     },
     "done": false
   },
@@ -1168,6 +1169,36 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-02 01:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 01:37:32 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-02 01:42:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-02 01:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-02 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-02 01:37:37 +0000"
     },
     "done": true
   },

@@ -531,6 +531,7 @@
       "cooked_porkchop": "2025-01-02 01:31:51 +0000",
       "cooked_mutton": "2025-01-02 00:26:40 +0000",
       "sweet_berries": "2024-12-30 02:03:11 +0000",
+      "cooked_beef": "2025-01-02 01:40:24 +0000",
       "potato": "2024-12-30 02:21:00 +0000",
       "rotten_flesh": "2024-12-30 02:27:09 +0000",
       "suspicious_stew": "2024-12-30 02:29:01 +0000",
@@ -1384,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-02 01:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-02 01:32:13 +0000"
@@ -1429,6 +1436,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-02 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-02 01:35:17 +0000"
     },
     "done": true
   },
