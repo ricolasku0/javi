@@ -262,7 +262,8 @@
       "minecraft:skeleton": "2024-12-30 02:48:33 +0000",
       "minecraft:spider": "2024-12-30 02:25:19 +0000",
       "minecraft:creeper": "2024-12-30 02:48:17 +0000",
-      "minecraft:zombie": "2024-12-30 01:50:42 +0000"
+      "minecraft:zombie": "2024-12-30 01:50:42 +0000",
+      "minecraft:drowned": "2025-01-02 02:04:41 +0000"
     },
     "done": false
   },
@@ -1056,6 +1057,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-02 02:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 01:13:00 +0000"
@@ -1086,9 +1093,21 @@
     },
     "done": true
   },
+  "rogcontinued:crystalchunkadvancement": {
+    "criteria": {
+      "crystalchunkadvancement": "2025-01-02 02:11:47 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/chandelier": {
     "criteria": {
       "has_iron_nugget": "2025-01-02 01:13:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-02 02:16:56 +0000"
     },
     "done": true
   },
@@ -1128,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-02 02:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 01:13:00 +0000"
@@ -1137,6 +1162,18 @@
   "rogcontinued:boneadvancement": {
     "criteria": {
       "boneadvancement": "2025-01-02 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-02 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 02:07:08 +0000"
     },
     "done": true
   },
@@ -1224,9 +1261,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 02:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-02 02:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 01:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-02 02:18:08 +0000"
     },
     "done": true
   },
@@ -1251,6 +1306,30 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-01-02 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 02:06:49 +0000"
+    },
+    "done": true
+  },
+  "rogcontinued:freedomsworn_advancement": {
+    "criteria": {
+      "freedomsworn_advancement": "2025-01-02 02:15:03 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-02 02:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-02 02:18:08 +0000"
     },
     "done": true
   },

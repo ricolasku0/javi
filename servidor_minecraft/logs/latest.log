@@ -223,3 +223,35 @@ A world backup will be automatically created in your saves directory.
 [02Jan2025 01:55:14.116] [Server thread/INFO] [tombstone/]: The player CHABBY_UP has successfully been saved
 [02Jan2025 01:55:15.674] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Jan2025 01:55:15.674] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Jan2025 01:58:14.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 01:58:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 01:59:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD was slain by niiiii
+[02Jan2025 01:59:56.912] [Server thread/INFO] [tombstone/]: The player JhonyXD has successfully been saved
+[02Jan2025 01:59:56.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP was slain by niiiii
+[02Jan2025 01:59:56.968] [Server thread/INFO] [tombstone/]: The player CHABBY_UP has successfully been saved
+[02Jan2025 01:59:59.913] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 01:59:59.913] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 02:00:00.120] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 02:00:00.120] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Jan2025 02:02:04.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD was slain by Zombie
+[02Jan2025 02:02:04.964] [Server thread/INFO] [tombstone/]: The player JhonyXD has successfully been saved
+[02Jan2025 02:02:35.825] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Jan2025 02:02:35.825] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Jan2025 02:03:03.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonyXD lost connection: Timed out
+[02Jan2025 02:03:03.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD left the game
+[02Jan2025 02:03:59.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonyXD[/[::1]:47832] logged in with entity id 29794 at (-16.5, 64.0, 396.5)
+[02Jan2025 02:03:59.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD joined the game
+[02Jan2025 02:06:49.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Magic Writing]
+[02Jan2025 02:07:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Mutual Aid]
+[02Jan2025 02:07:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has reached the goal [A little cleaning is necessary]
+[02Jan2025 02:08:17.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHABBY_UP lost connection: Timed out
+[02Jan2025 02:08:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHABBY_UP left the game
+[02Jan2025 02:11:29.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 02:11:47.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Crystal Chunk]
+[02Jan2025 02:11:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 02:13:20.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[02Jan2025 02:13:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Cover Me with Diamonds]
+[02Jan2025 02:13:55.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[02Jan2025 02:15:03.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Freedom-Sworn]
+[02Jan2025 02:15:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonyXD has made the advancement [Buster Sword]
+[02Jan2025 02:16:56.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Teleported niiiii to JhonyXD]
