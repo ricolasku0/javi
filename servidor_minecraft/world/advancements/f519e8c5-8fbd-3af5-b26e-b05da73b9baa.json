@@ -167,7 +167,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-30 02:27:24 +0000",
       "minecraft:spider": "2025-01-02 00:35:33 +0000",
-      "minecraft:zombie": "2024-12-30 01:51:56 +0000"
+      "minecraft:zombie": "2024-12-30 01:51:56 +0000",
+      "minecraft:drowned": "2025-01-02 01:03:08 +0000"
     },
     "done": false
   },
@@ -1214,15 +1215,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_string": "2025-01-02 00:35:34 +0000"
+      "has_furnace": "2025-01-02 00:25:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_boat": "2025-01-02 00:36:52 +0000"
+      "has_logs": "2025-01-02 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-02 00:35:34 +0000"
     },
     "done": true
   },
@@ -1232,9 +1245,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_furnace": "2025-01-02 00:25:48 +0000"
+      "has_string": "2025-01-02 00:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-02 00:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-02 00:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-02 00:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:36:52 +0000"
     },
     "done": true
   },
@@ -1253,18 +1290,6 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-02 00:36:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-01-02 00:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-01-02 00:35:34 +0000"
     },
     "done": true
   },
@@ -1298,27 +1323,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "has_string": "2025-01-02 00:35:34 +0000"
+      "has_raw_iron": "2025-01-02 00:45:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "has_logs": "2025-01-02 00:28:51 +0000"
+      "has_raw_iron": "2025-01-02 00:45:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "has_string": "2025-01-02 00:35:34 +0000"
+      "has_raw_iron": "2025-01-02 00:45:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_log": "2025-01-02 00:28:51 +0000"
+      "has_gold_nugget": "2025-01-02 00:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-02 00:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-02 00:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-02 00:48:59 +0000"
     },
     "done": true
   },
