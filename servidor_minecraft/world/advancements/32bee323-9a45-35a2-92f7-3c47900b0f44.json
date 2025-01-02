@@ -331,6 +331,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-02 01:48:31 +0000",
       "minecraft:dark_forest": "2025-01-02 01:21:36 +0000",
       "minecraft:stony_shore": "2025-01-02 00:31:36 +0000",
       "minecraft:lush_caves": "2025-01-02 00:35:48 +0000",
@@ -340,6 +341,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-02 01:46:14 +0000",
       "minecraft:zombie": "2025-01-02 00:33:58 +0000"
     },
     "done": false
@@ -1178,9 +1180,51 @@
     },
     "done": true
   },
+  "rogcontinued:crystalchunkadvancement": {
+    "criteria": {
+      "crystalchunkadvancement": "2025-01-02 01:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-02 01:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-02 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "rogcontinued:boneadvancement": {
+    "criteria": {
+      "boneadvancement": "2025-01-02 01:49:58 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-01-02 01:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-02 01:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-02 01:49:57 +0000"
     },
     "done": true
   },
